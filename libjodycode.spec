@@ -4,7 +4,7 @@
 
 Summary:	Shared code used by several utilities written by Jody Bruchon
 Name:		libjodycode
-Version:	3.1
+Version:	3.1.1
 Release:	1
 Group:		System/Libraries
 License:	MIT
